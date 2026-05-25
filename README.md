@@ -400,7 +400,6 @@ This documentation is part of a complete solar monitoring system with:
 ### Related Repositories
 
 - [skymax-demo](https://github.com/manio/skymax-demo) - Original C implementation
-- [docker-voltronic-homeassistant](https://github.com/ned-kelly/docker-voltronic-homeassistant) - Docker HA integration
 
 ---
 
